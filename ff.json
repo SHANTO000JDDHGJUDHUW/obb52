@@ -69,12 +69,12 @@
   "heaschestoffset64": 188,
   "headheadoffset": 168,
   "heaschestoffset": 172,
-  "neckheadoffset": ,
-  "neckchestoffset": ,
-  "dragheadoffset": ,
-  "dragchestoffset": ,
-  "ladyfixheadoffset": ,
-  "ladtfixchestoffset": ,
+  "neckheadoffset": 22,
+  "neckchestoffset": 22,
+  "dragheadoffset": 22,
+  "dragchestoffset": 22,
+  "ladyfixheadoffset": 22,
+  "ladtfixchestoffset": 22,
   "bot64": ["90","E0"],
   "bot32":["68","78"]
 }
