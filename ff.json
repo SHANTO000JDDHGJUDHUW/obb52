@@ -76,8 +76,8 @@
   "neckchestoffset": 22,
   "dragheadoffset": 22,
   "dragchestoffset": 22,
-  "ladyfixheadoffset": 22,
-  "ladtfixchestoffset": 22,
+  "ladyfixheadoffset": 240,
+  "ladtfixchestoffset": 708,
   "bot64": ["90","E0"],
   "bot32":["68","78"]
 }
