@@ -43,7 +43,7 @@
   "speed20xscan": "",
   "speed20xrep": "",
   "speed30xscan": "",
-  "speed30xrep": ""
+  "speed30xrep": "",
   "speed50xscan": "40 02 2B 07 3D 02 2B 07 3D 02 2B 07 3D 00 00 00 00 9B 6C F2 41 ?? 00 00 00 ?? ?? ?? ?? ?? ?? ?? 40",
   "speed50xrep": "40 02 2B 9B 3C 02 2B 07 3D 02 2B 07 3D 00 00 00 00 9B 6C F2 41 ?? 00 00 00 ?? ?? ?? ?? ?? ?? ?? 40",
   "fastreloadscan": "10 0A 18 EE 02 8B BD EC 30 88 BD E8 30 48 2D E9 08 B0 8D E2 00 40 A0 E1 DC",
